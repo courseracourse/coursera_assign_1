@@ -25,15 +25,17 @@ section {
   height: auto;
   margin: 10px;
   color: black;
-  font-size: 1.25em;  
 }
 
 
-section header {
+h2 {
+  font-size: 1.25em;    
   border: 1px solid black;
   width: 30%;
   text-align: center;
   margin-left: auto;
+  margin-top: 0;
+  margin-bottom: 0;  
 }
 
 .sec-header-1 {
@@ -183,8 +185,5 @@ section header {
   .col-sd-12 {
     width: 100%;
   }
-}
-
-
 }
 
